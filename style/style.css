@@ -76,6 +76,8 @@ a {
     height: 300px;
     background-color: #1a1a1a;
     border-radius: 8px;
+    box-shadow: 6px 8px 5px black;
+
 }
 
 .description-title {
